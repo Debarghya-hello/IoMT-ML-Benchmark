@@ -1,7 +1,7 @@
 # IoMT Machine Learning Benchmark
 
 ## Project Overview
-This project is an automated machine learning benchmarking tool. It evaluates the performance of 7 standard classification algorithms to determine which model is best suited for predicting patient outcomes based on Internet of Medical Things (IoMT) sensor data.
+This project is an automated machine learning benchmarking tool. It evaluates the performance of 7 standard classification algorithms to determine which model is best suited for detecting malicious network anomalies and cyber attacks (such as ARP Spoofing) within Internet of Medical Things (IoMT) environments.
 
 ## Methodology
 The pipeline follows standard machine learning engineering practices:
